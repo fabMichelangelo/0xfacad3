@@ -9,9 +9,7 @@ Web frontend and backend, Infrastructure design using cloud platforms, Vulnerabi
 
 ## Special points
 
-He loves providing solutions using the cloud and is a great expert in technology-based migration consulting. For example, he can define and explain the benefits of using them to transform existing environments into new environments, and he can identify potential issues with existing maintenance and operations. He loves finding and fixing the cracks in things (highly technical areas).
-
-
+He loves providing solutions using the cloud and is a great expert in technology-based migration consulting. For example, he can define and explain the benefits of using them to transform existing environments into new environments, and he can identify potential issues with existing maintenance and operations. He loves finding and fixing the cracks in things.
 <br>
 
 <p align="left"> 
