@@ -1,15 +1,24 @@
-# I'm 幸せな狂人という化け物。
+## 暇で狂った人
 
-## About
-0xfacad3 is N years old and is a software developer, infrastructure engineer and security engineer. 
+### 属性
+技術者であり、ユニークな思想家であり、起業家であり、人類と神を救う野心を持った、23歳男性。
+
+日本在住、膨大な愛国心あり。
+故に、現状に中指な部分あり。
+
+### playlist
+- https://music.youtube.com/playlist?list=PLRpI0Tom3xLnZazwwJpUcLyb_bZ1T5WIP&si=e5PLL64U4l3pd3sX
+
+## As Engineer
+fab is 23 years old and is a software developer, infrastructure engineer and security engineer. 
 
 He loves finding and improving solutions and problems of any kind that are highly technical.
 
-## Skills
+### Skills
 
 Web frontend and backend, Infrastructure design using cloud platforms, Vulnerability assessment of existing systems, Development of a specialized platform for specific fields using LLM (RAG).
 
-## Special points
+### Special points
 
 He loves providing solutions using the cloud and is a great expert in technology-based migration consulting. For example, he can define and explain the benefits of using them to transform existing environments into new environments, and he can identify potential issues with existing maintenance and operations. He loves finding and fixing the cracks in things.
 <br>
@@ -26,6 +35,5 @@ He loves providing solutions using the cloud and is a great expert in technology
 📫 How to reach him.
 </h2>
 
-- [Twitter](https://twitter.com/0xfacad3)
-
+- [x](https://x.com/fab_zeal)
 
